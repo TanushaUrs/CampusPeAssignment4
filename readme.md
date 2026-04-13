@@ -1,4 +1,4 @@
-#  Modern AI Chat UI (Assignment 3)
+#  Modern AI Chat UI (Assignment 4)
 
 Welcome to my Assignment 3 frontend project.
 
