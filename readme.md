@@ -1,6 +1,6 @@
 #  Modern AI Chat UI (Assignment 4)
 
-Welcome to my Assignment 3 frontend project.
+Welcome to my Assignment 4 frontend project.
 
 This project presents a fully responsive and modern chat interface created using **HTML5, CSS3, JavaScript, jQuery, and Bootstrap 5**. The main goal was to replicate the clean and intuitive user experience seen in tools like ChatGPT and Claude, without using any backend services.
 
